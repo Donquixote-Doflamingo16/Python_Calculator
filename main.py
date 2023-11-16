@@ -30,3 +30,7 @@ def calculator(a):
 
 calculator(enter)
 
+print("hello world!")
+print("hello world!")
+print("hello world!")
+
