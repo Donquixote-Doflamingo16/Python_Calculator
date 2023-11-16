@@ -29,4 +29,9 @@ def calculator(a):
 
 
 calculator(enter)
+print("refusing to merge unrelated histories")
+print("refusing to merge unrelated histories")
+print("refusing to merge unrelated histories")
+print("refusing to merge unrelated histories")
+
 
